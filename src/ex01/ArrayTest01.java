@@ -5,6 +5,7 @@ public class ArrayTest01 {
 	public static void main(String[] args) {
 		
 		System.out.println("선우");
+		System.out.println("선우2");
 
 	}
 
