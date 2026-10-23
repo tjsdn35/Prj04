@@ -21,7 +21,7 @@ public class ArrayTest02 {
 		System.out.println(tot);
 		
 		//----------------------------------------------
-		
+		//.......
 		
 		
 	}
